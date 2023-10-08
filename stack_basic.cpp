@@ -104,10 +104,10 @@ int main() {
         s.pop1();
         s.print();
 
-s.pop1();
+        s.pop1();
         s.print();
 
-s.pop1();
+        s.pop1();
         s.print();
 
         s.pop1();
